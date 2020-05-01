@@ -8,10 +8,6 @@ And Also if you want its executable file then downlad the .msi extension file an
 
 First of all you need to clone or download the repo then extract it on your system then copy/cut all the files and paste it on your workspace or any of the code editor.
 
-########### if you will stuck in any where then feel free to contact me on my gmail
-
-rahulmishra8084@gmail.com
-
 #####################################################################
 If Want to Get Video Link OF the Project Then Youtube Link https://www.youtube.com/forcodecoder
 
